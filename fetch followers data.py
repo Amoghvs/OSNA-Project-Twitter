@@ -12,12 +12,12 @@ import csv
 twitter_handle = 'amoghvs'
 
 
-consumer_key='omNNShV46ijfz4cjoYnnwSyaP'
-consumer_secret='U4zOGPcMCMKdYGTehzIDKklsyBmVkp0M8sqJKAktytZ1LY3DtV'
+consumer_key='x'
+consumer_secret='x'
 
 
-access_token='295100676-HDCg2pwKy7qa0CsFmClIPhaqr4LhGHhR4PC8NYCm'
-access_secret='nARxQP59EuKCuaJNiInV00vvSTif42BboCzUl9ZR9xpQ9'
+access_token='x'
+access_secret='x'
 
 auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_secret)
