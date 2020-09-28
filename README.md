@@ -2,9 +2,9 @@
 
 As part of this project we explored twitter api’s and did analysis on following twitter data using Python & Gephi.
 
-Donald Trump twitter’s account data analysis using Python
-Personal account twitter account data analysis using Python
-Twitter Data Analysis of Donald Trump & Elon Musk using Gephi
+1. Donald Trump twitter’s account data analysis using Python
+2. Personal account twitter account data analysis using Python
+3. Twitter Data Analysis of Donald Trump & Elon Musk using Gephi
 
 
 For point 1 & 2 we followed a systematic approach as mentioned in the project requirement document starting with extracting twitter data using twitter API thereby creating Consumer & Access Token and using the same to extract data of Donald Trump and personal account.
