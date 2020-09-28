@@ -22,3 +22,6 @@ Having said that, we can say that we were successful in understanding how twitte
 We also understood how to use python libraries such as tweepy to do data analysis on the extracted data and use python libraries to do visualizations to an extent.
 
 The major learning from this project is to understand altogether a new visualization tool i.e. Gephi. It is a great and easy to use tool with lots of exciting features. Its ability to apply lots of exploratory algorithms with just a click makes it very easy to use and allows end users to get rid of lots of complexities thereby saving huge amounts of time.
+
+
+Porject Report: https://docs.google.com/document/d/1hqM9xGuC-owxusdn9pU2j40Lda4pb2C4A0aYmC0aS00/edit?usp=sharing
